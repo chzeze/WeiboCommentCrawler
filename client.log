@@ -1,2 +1,138 @@
-2016-11-08 22:06:24 INFO  Configuration:51 - load configuration from : /workspace/AliExpressCrawl/configuration.properties
-2016-11-08 22:06:24 INFO  Configuration:53 - load succeed!
+2016-11-27 20:15:18 INFO  WeiboOption:64 - Config Path:/workspace/AliExpressCrawl/configuration.properties
+2016-11-27 20:15:18 INFO  Configuration:51 - load configuration from : /workspace/AliExpressCrawl/configuration.properties
+2016-11-27 20:15:18 INFO  Configuration:53 - load succeed!
+2016-11-27 20:15:18 INFO  WeiboOption:267 - Cookie Num:5
+2016-11-27 20:15:21 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:15:21 INFO  WeiboExtrator:58 - 当前用户：热门评论风云榜,晚上好！
+2016-11-27 20:15:22 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:15:22 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:15:22 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/pub?rand=975022
+2016-11-27 20:15:22 INFO  WeiboOption:99 - Sleep Time:58955
+2016-11-27 20:16:21 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:16:21 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:16:21 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/pub?rand=731744
+2016-11-27 20:16:21 INFO  WeiboOption:99 - Sleep Time:22899
+2016-11-27 20:16:45 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:16:45 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:16:45 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=830158
+2016-11-27 20:16:45 INFO  WeiboOption:99 - Sleep Time:82624
+2016-11-27 20:18:08 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:18:08 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:18:08 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=299916
+2016-11-27 20:18:08 INFO  WeiboOption:99 - Sleep Time:86978
+2016-11-27 20:19:35 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:19:35 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:19:35 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/pub?rand=880964
+2016-11-27 20:19:35 INFO  WeiboOption:99 - Sleep Time:20586
+2016-11-27 20:19:56 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:19:56 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:19:56 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=965576
+2016-11-27 20:19:56 INFO  WeiboOption:99 - Sleep Time:82954
+2016-11-27 20:21:20 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:21:20 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:21:20 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=215030
+2016-11-27 20:21:20 INFO  WeiboOption:99 - Sleep Time:20237
+2016-11-27 20:21:40 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:21:40 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:21:40 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/pub?rand=959641
+2016-11-27 20:21:40 INFO  WeiboOption:99 - Sleep Time:106128
+2016-11-27 20:23:27 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:23:27 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:23:27 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/pub?rand=233743
+2016-11-27 20:23:27 INFO  WeiboOption:99 - Sleep Time:11146
+2016-11-27 20:23:38 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:23:38 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:23:38 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=762995
+2016-11-27 20:23:38 INFO  WeiboOption:99 - Sleep Time:38332
+2016-11-27 20:24:17 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:24:17 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:24:17 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/pub?rand=863839
+2016-11-27 20:24:17 INFO  WeiboOption:99 - Sleep Time:106455
+2016-11-27 20:26:04 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:26:04 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:26:04 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/pub?rand=658288
+2016-11-27 20:26:04 INFO  WeiboOption:99 - Sleep Time:93924
+2016-11-27 20:27:38 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:27:38 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:27:38 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=748934
+2016-11-27 20:27:38 INFO  WeiboOption:99 - Sleep Time:84275
+2016-11-27 20:29:03 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:29:03 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:29:03 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/pub?rand=679746
+2016-11-27 20:29:03 INFO  WeiboOption:99 - Sleep Time:53617
+2016-11-27 20:29:57 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:29:57 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:29:57 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=256639
+2016-11-27 20:29:57 INFO  WeiboOption:99 - Sleep Time:50533
+2016-11-27 20:30:48 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:30:48 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:30:48 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/pub?rand=785797
+2016-11-27 20:30:48 INFO  WeiboOption:99 - Sleep Time:33336
+2016-11-27 20:31:22 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:31:22 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:31:22 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=640809
+2016-11-27 20:31:22 INFO  WeiboOption:99 - Sleep Time:70783
+2016-11-27 20:32:33 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:32:33 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:32:33 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=209590
+2016-11-27 20:32:33 INFO  WeiboOption:99 - Sleep Time:24387
+2016-11-27 20:32:59 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:32:59 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:32:59 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=543023
+2016-11-27 20:32:59 INFO  WeiboOption:99 - Sleep Time:40611
+2016-11-27 20:33:40 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:33:40 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:33:40 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/pub?rand=321898
+2016-11-27 20:33:40 INFO  WeiboOption:99 - Sleep Time:22204
+2016-11-27 20:34:03 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:34:03 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:34:03 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=168316
+2016-11-27 20:34:03 INFO  WeiboOption:99 - Sleep Time:75354
+2016-11-27 20:35:19 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:35:19 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:35:19 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/pub?rand=335520
+2016-11-27 20:35:19 INFO  WeiboOption:99 - Sleep Time:42578
+2016-11-27 20:36:02 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:36:02 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:36:02 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=865853
+2016-11-27 20:36:02 INFO  WeiboOption:99 - Sleep Time:49334
+2016-11-27 20:36:52 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:36:52 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:36:52 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=105727
+2016-11-27 20:36:52 INFO  WeiboOption:99 - Sleep Time:46533
+2016-11-27 20:37:39 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:37:39 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:37:39 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/pub?rand=906566
+2016-11-27 20:37:39 INFO  WeiboOption:99 - Sleep Time:95613
+2016-11-27 20:39:15 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:39:15 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:39:15 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=832784
+2016-11-27 20:39:15 INFO  WeiboOption:99 - Sleep Time:46158
+2016-11-27 20:40:02 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:40:02 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:40:02 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=360102
+2016-11-27 20:40:02 INFO  WeiboOption:99 - Sleep Time:67624
+2016-11-27 20:41:10 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:41:10 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:41:10 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=945162
+2016-11-27 20:41:10 INFO  WeiboOption:99 - Sleep Time:87583
+2016-11-27 20:42:38 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:42:38 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:42:38 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/pub?rand=679320
+2016-11-27 20:42:38 INFO  WeiboOption:99 - Sleep Time:76606
+2016-11-27 20:43:55 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:43:55 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:43:55 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/pub?rand=629977
+2016-11-27 20:43:55 INFO  WeiboOption:99 - Sleep Time:46384
+2016-11-27 20:44:42 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:44:42 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:44:42 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=870037
+2016-11-27 20:44:42 INFO  WeiboOption:99 - Sleep Time:94743
+2016-11-27 20:46:17 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:46:17 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:46:17 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/?rand=174777
+2016-11-27 20:46:17 INFO  WeiboOption:99 - Sleep Time:86269
+2016-11-27 20:47:44 WARN  HttpMethodBase:1511 - Cookie rejected: "$Version=0; WEIBOCN_FROM=deleted; $Path=/; $Domain=.weibo.cn". Illegal domain attribute ".weibo.cn". Domain of origin: "weibo.cn"
+2016-11-27 20:47:44 INFO  HttpMethodDirector:817 - Redirect requested but followRedirects is disabled
+2016-11-27 20:47:44 INFO  WeiboOption:146 -  发布微博成功,重定向url:http://weibo.cn/pub?rand=363400
+2016-11-27 20:47:44 INFO  WeiboOption:99 - Sleep Time:62828
